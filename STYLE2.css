@@ -1,0 +1,28 @@
+nav{ display: flex;
+
+    align-items: center;
+    align-content: center;
+    
+    justify-content: space-between;
+    justify-content: space-around;}
+    .first{ padding-left: 200px;}
+    .session{ margin-right: px;}
+    button{ width: 100;}
+    .btn1{ background-color: white;
+    color: #007163;border-radius: 5%;
+    padding: 10px 40px 10px 40px;
+    border-color: #007163;
+    }
+    .btn2{ background-color: #007163;
+    color: white;
+    border: none;border-radius: 5%;
+    padding: 10px 40px 10px 40px;}
+    
+ .grid{ display: grid;
+    grid-template-columns: 1fr 1fr  ;
+grid-template-rows: 1fr 1fr ;}
+.btn10{ background-color: white ;
+}
+span{ color:#B69470 ;}
+.btn11{ color: white;
+background-color: #007163;}

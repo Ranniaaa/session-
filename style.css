@@ -1,0 +1,90 @@
+nav{ display: flex;
+
+align-items: center;
+align-content: center;
+
+justify-content: space-between;
+justify-content: space-around;}
+.first{ padding-left: 200px;}
+.session{ margin-right: px;}
+button{ width: 100;}
+.btn1{ background-color: white;
+color: #007163;border-radius: 5%;
+padding: 10px 40px 10px 40px;
+border-color: #007163;
+}
+.btn2{ background-color: #007163;
+color: white;
+border: none;border-radius: 5%;
+padding: 10px 40px 10px 40px;}
+.lawla{display: flex; }
+.div2{ align-content: center;
+align-content: center;
+text-align: center; 
+font-size: 30px;}
+.btn3{ color: #A67C52;border-color: #A67C52;margin-right: 20px;border-radius: 5%;
+background-color: #F4EEE5;padding: 10px 40px 10px 40px;}
+.btn4{ color: #007163;background-color: #E5EEE7;
+    padding: 10px 40px 10px 40px;border-color: #007163;border-radius: 5%;
+}
+.images{ justify-content: space-around;
+justify-content: space-between;
+align-items: center;
+text-align: center; margin-top: 50px;
+}
+.a{ background-color: #007163;
+color: white;
+font-size: 50px;
+border-radius: 50%;}
+.social{ text-align: center;
+margin-top: 100px;}
+.section{align-items: center;
+    align-content: center;
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around; }
+.mobile{ display: flex;}
+.help{ display: flex;}
+.grid{ display: grid; 
+grid-template-columns: 1fr 1fr 1fr ;
+grid-template-rows: 1fr 1fr ;
+margin-left: 200px;}
+.btn10{ background-color: white ; border: none;background-color: transparent;
+    padding: 50px 50px 50px 50px;font-size: 20px; 
+}
+span{ color:#B69470 ;}
+.btn11{ color: white;padding: 15px 40px 10px 40px ;border-radius: 5%; border: none ;
+background-color: #007163;}
+.nick{ display: flex; margin-left: 100;}
+.h{ margin-left: 150px;}
+.box{ width: 450px;
+height: 600px ;
+background-color: white ;
+margin-bottom: 50px; 
+background-color: transparent;
+position: relative;
+border: black;
+ }
+
+ 
+
+    
+    
+
+
+img{ margin-top: 20px; margin-left: 20px; }
+.img{ -webkit-transform:rotate( 360deg) ;
+-webkit-transition-duration: 10s;
+-webkit-transition-delay: now ;
+-webkit-animation-timing-function: linear;
+-webkit-animation-iteration-count: infinite;}
+input{  width: 300px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius:   10px;
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+height: 30px;}
+.box{background-color: transparent;
+position: relative;
+}
+
